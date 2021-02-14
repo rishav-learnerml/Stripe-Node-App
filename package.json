@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rishav Chatterjee",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "stripe": "^8.135.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
